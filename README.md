@@ -18,7 +18,7 @@
 
 ![Capture](https://user-images.githubusercontent.com/57010227/234502891-78a53e47-5d85-4fe9-ad2e-2395a20be933.JPG)
 
-Data
+This application use to clean data and apply machine learning techniques on a GUI web-based platform which involves image cleaning also.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
