@@ -18,7 +18,7 @@
 
 ![Capture](https://user-images.githubusercontent.com/57010227/234502891-78a53e47-5d85-4fe9-ad2e-2395a20be933.JPG)
 
-Our crime prediction project utilizes machine learning algorithms to analyze and interpret patterns in crime data, enabling us to accurately predict potential crime hotspots. This tool empowers law enforcement agencies to take proactive measures and implement targeted strategies to prevent crimes before they occur, ultimately creating safer communities.
+Data
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
