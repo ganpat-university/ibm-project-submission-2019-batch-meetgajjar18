@@ -61,17 +61,17 @@ Make sure that you have the following:
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-[contri-shield]: https://img.shields.io/github/contributors/ganpat-university/ibm-project-submission-2019-batch-DeepKariaX?style=for-the-badge
+[contri-shield]: https://img.shields.io/github/contributors/ganpat-university/ibm-project-submission-2019-batch-meetgajjar18?style=for-the-badge
 [contri-url]: #
 
 
-[size-shield]: https://img.shields.io/github/repo-size/ganpat-university/ibm-project-submission-2019-batch-DeepKariaX?style=for-the-badge
+[size-shield]: https://img.shields.io/github/repo-size/ganpat-university/ibm-project-submission-2019-batch-meetgajjar18?style=for-the-badge
 [size-url]: #
 
-[issues-shield]: https://img.shields.io/github/issues/ganpat-university/ibm-project-submission-2019-batch-DeepKariaX?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/ganpat-university/ibm-project-submission-2019-batch-meetgajjar18?style=for-the-badge
 [issues-url]: #
 
-[language-shield]: https://img.shields.io/github/languages/count/ganpat-university/ibm-project-submission-2019-batch-DeepKariaX?style=for-the-badge
+[language-shield]: https://img.shields.io/github/languages/count/ganpat-university/ibm-project-submission-2019-batch-meetgajjar18?style=for-the-badge
 [language-url]: #
 
 [product-screenshot]: Media/Home.png
